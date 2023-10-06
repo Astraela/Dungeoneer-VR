@@ -1,0 +1,14 @@
+newmtl Ssevv1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 1
+
+Ns 9
+
+map_Ka Ssevv1Tex.png
+map_Kd Ssevv1Tex.png
+map_d Ssevv1Tex.png
+

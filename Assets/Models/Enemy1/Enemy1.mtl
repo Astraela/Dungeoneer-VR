@@ -1,0 +1,44 @@
+newmtl ArmorDummy1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 1
+
+Ns 9
+
+map_Ka ArmorDummy1Tex.png
+map_Kd ArmorDummy1Tex.png
+map_d ArmorDummy1Tex.png
+
+newmtl Meshpart6Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0185889 0.0169765 0.0181783 
+
+d 1
+
+Ns 22
+
+newmtl Meshpart3Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.298892 0.294873 0.30702 
+
+d 1
+
+Ns 120
+
+newmtl Meshpart1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000224472 0.000593349 0.000989848 
+
+d 1
+
+Ns 16
+

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_GeneratorAsset: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: c2682d929e2bac4488eb91cee9adc21a, type: 3}
+  m_Name: SteamVR_Input_ActionSet_default_In
+  m_EditorClassIdentifier: 
+  actionSet: {fileID: 0}
+  listDirection: 0
+  actions:
+  - {fileID: 11400000, guid: 9ac3ec52874c2444ca5812bb7b3eb944, type: 2}
+  - {fileID: 11400000, guid: d3e270af8035e804b98ed7bccb6154b3, type: 2}
+  - {fileID: 11400000, guid: 6ec25800a9e1be244862421c9ac6fca6, type: 2}
+  - {fileID: 11400000, guid: 0d133717f23028740b1a26983a060f98, type: 2}
+  - {fileID: 11400000, guid: 3a61420c25ceb9b4b9e6a4c4f3b1b0cc, type: 2}
+  - {fileID: 11400000, guid: 4502c6dfcc9855a4889c2c6f045b8b0e, type: 2}
+  - {fileID: 11400000, guid: 93e188cb351ade84ab9d28c928284858, type: 2}
+  - {fileID: 11400000, guid: edb48c986b5da4b40834c2ba9436f5f4, type: 2}
+  - {fileID: 11400000, guid: bcc974df07f7aba4c98af44044458357, type: 2}
+  - {fileID: 11400000, guid: 93eafbe982b365b4c84d9310b2251b95, type: 2}
+  InteractUI: {fileID: 11400000, guid: 9ac3ec52874c2444ca5812bb7b3eb944, type: 2}
+  Teleport: {fileID: 11400000, guid: d3e270af8035e804b98ed7bccb6154b3, type: 2}
+  GrabPinch: {fileID: 11400000, guid: 6ec25800a9e1be244862421c9ac6fca6, type: 2}
+  GrabGrip: {fileID: 11400000, guid: 0d133717f23028740b1a26983a060f98, type: 2}
+  Pose: {fileID: 11400000, guid: 3a61420c25ceb9b4b9e6a4c4f3b1b0cc, type: 2}
+  SkeletonLeftHand: {fileID: 11400000, guid: 4502c6dfcc9855a4889c2c6f045b8b0e, type: 2}
+  SkeletonRightHand: {fileID: 11400000, guid: 93e188cb351ade84ab9d28c928284858, type: 2}
+  Squeeze: {fileID: 11400000, guid: edb48c986b5da4b40834c2ba9436f5f4, type: 2}
+  TouchpadTouch: {fileID: 11400000, guid: bcc974df07f7aba4c98af44044458357, type: 2}
+  Menu: {fileID: 11400000, guid: 93eafbe982b365b4c84d9310b2251b95, type: 2}

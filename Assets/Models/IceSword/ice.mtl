@@ -1,0 +1,74 @@
+newmtl Meshpart8Mtl
+Material Color
+Ka 0.598942 0.529523 0.373615
+Kd 0.598942 0.529523 0.373615
+Ks 0.0422783 0.0373781 0.0263728 
+
+d 1
+
+Ns 6
+
+newmtl Cone2Mtl
+Material Color
+Ka 0.554227 0.554227 0.554227
+Kd 0.554227 0.554227 0.554227
+Ks 0.221691 0.221691 0.221691 
+
+d 1
+
+Ns 9
+
+map_Ka Cone2Tex.png
+map_Kd Cone2Tex.png
+map_d Cone2Tex.png
+
+newmtl Cone1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.149446 0.147436 0.15351 
+
+d 1
+
+Ns 9
+
+newmtl Meshpart6Mtl
+Material Color
+Ka 0.560499 0.0169881 0.00775103
+Kd 0.560499 0.0169881 0.00775103
+Ks 0.560499 0.0169881 0.00775103 
+
+d 1
+
+Ns 190
+
+newmtl Meshpart3Mtl
+Material Color
+Ka 0.00143313 0.14198 0.420508
+Kd 0.00143313 0.14198 0.420508
+Ks 0.00143313 0.14198 0.420508 
+
+d 1
+
+Ns 190
+
+newmtl Meshpart2Mtl
+Material Color
+Ka 0.0302565 0.275833 0.0477758
+Kd 0.0302565 0.275833 0.0477758
+Ks 0.0302565 0.275833 0.0477758 
+
+d 1
+
+Ns 190
+
+newmtl Meshpart1Mtl
+Material Color
+Ka 1 0.320382 0.722673
+Kd 1 0.320382 0.722673
+Ks 1 0.320382 0.722673 
+
+d 1
+
+Ns 190
+

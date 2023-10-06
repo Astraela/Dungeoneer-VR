@@ -1,0 +1,14 @@
+newmtl Lceslice1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 1
+
+Ns 9
+
+map_Ka Lceslice1Tex.png
+map_Kd Lceslice1Tex.png
+map_d Lceslice1Tex.png
+

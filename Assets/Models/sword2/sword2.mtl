@@ -1,0 +1,78 @@
+newmtl Blade7Mtl
+Material Color
+Ka 1 0.0891935 0
+Kd 1 0.0891935 0
+Ks 0.188235 0.0167894 0 
+
+d 1
+
+Ns 24
+
+newmtl Blade6Mtl
+Material Color
+Ka 0.573159 0.0511221 0
+Kd 0.573159 0.0511221 0
+Ks 0.429307 0.0382914 0 
+
+d 1
+
+Ns 81
+
+newmtl Gemstone1Mtl
+Material Color
+Ka 1 0 0
+Kd 1 0 0
+Ks 1 0 0 
+
+d 1
+
+Ns 190
+
+newmtl Blade5Mtl
+Material Color
+Ka 0.0253713 0.0134734 0.00902149
+Kd 0.0253713 0.0134734 0.00902149
+Ks 0.00636769 0.00338156 0.00226422 
+
+d 1
+
+Ns 32
+
+newmtl Blade3Mtl
+Material Color
+Ka 1 0.0399472 0
+Kd 1 0.0399472 0
+Ks 0.188235 0.00751947 0 
+
+d 1
+
+Ns 24
+
+map_Ka Blade3Tex.png
+map_Kd Blade3Tex.png
+map_d Blade3Tex.png
+
+newmtl Blade2Mtl
+Material Color
+Ka 1 0.0399472 0
+Kd 1 0.0399472 0
+Ks 0.188235 0.00751947 0 
+
+d 1
+
+Ns 24
+
+map_Ka Blade2Tex.png
+map_Kd Blade2Tex.png
+map_d Blade2Tex.png
+
+newmtl Blade1Mtl
+Material Color
+Ka 0.180144 0 0
+Kd 0.180144 0 0
+Ks 0.0339095 0 0 
+
+d 1
+
+Ns 24
+

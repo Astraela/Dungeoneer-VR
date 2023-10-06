@@ -1,0 +1,40 @@
+newmtl Meshpart4Mtl
+Material Color
+Ka 0.0511221 0 0
+Kd 0.0511221 0 0
+Ks 0.0128306 0 0 
+
+d 1
+
+Ns 32
+
+newmtl Meshpart3Mtl
+Material Color
+Ka 0.0915184 0.0134734 0.0134734
+Kd 0.0915184 0.0134734 0.0134734
+Ks 0.00646012 0.000951063 0.000951063 
+
+d 1
+
+Ns 6
+
+newmtl Meshpart2Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.177054 0.177054 0.177054 
+
+d 1
+
+Ns 24
+
+newmtl Meshpart1Mtl
+Material Color
+Ka 0.0511221 0 0
+Kd 0.0511221 0 0
+Ks 0.0408976 0 0 
+
+d 1
+
+Ns 120
+

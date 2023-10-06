@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: e6a016f583ffa5a4b9020ccb6bf0e43e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Blade1
+    100002: Blade2
+    100004: Blade3
+    100006: Blade4
+    100008: Blade5
+    100010: Blade6
+    100012: Blade7
+    100014: Blade8
+    100016: Gemstone1
+    100018: Gemstone2
+    100020: Grip1
+    100022: Grip2
+    100024: Grip3
+    100026: Grip4
+    100028: Pommel1
+    100030: //RootNode
+    400000: Blade1
+    400002: Blade2
+    400004: Blade3
+    400006: Blade4
+    400008: Blade5
+    400010: Blade6
+    400012: Blade7
+    400014: Blade8
+    400016: Gemstone1
+    400018: Gemstone2
+    400020: Grip1
+    400022: Grip2
+    400024: Grip3
+    400026: Grip4
+    400028: Pommel1
+    400030: //RootNode
+    2100000: Blade1Mtl
+    2100002: Blade2Mtl
+    2100004: Blade3Mtl
+    2100006: Blade5Mtl
+    2100008: Blade6Mtl
+    2100010: Blade7Mtl
+    2100012: Gemstone1Mtl
+    2300000: Blade1
+    2300002: Blade2
+    2300004: Blade3
+    2300006: Blade4
+    2300008: Blade5
+    2300010: Blade6
+    2300012: Blade7
+    2300014: Blade8
+    2300016: Gemstone1
+    2300018: Gemstone2
+    2300020: Grip1
+    2300022: Grip2
+    2300024: Grip3
+    2300026: Grip4
+    2300028: Pommel1
+    3300000: Blade1
+    3300002: Blade2
+    3300004: Blade3
+    3300006: Blade4
+    3300008: Blade5
+    3300010: Blade6
+    3300012: Blade7
+    3300014: Blade8
+    3300016: Gemstone1
+    3300018: Gemstone2
+    3300020: Grip1
+    3300022: Grip2
+    3300024: Grip3
+    3300026: Grip4
+    3300028: Pommel1
+    4300000: Blade1
+    4300002: Blade2
+    4300004: Blade3
+    4300006: Blade4
+    4300008: Blade5
+    4300010: Blade6
+    4300012: Blade7
+    4300014: Blade8
+    4300016: Gemstone1
+    4300018: Gemstone2
+    4300020: Grip1
+    4300022: Grip2
+    4300024: Grip3
+    4300026: Grip4
+    4300028: Pommel1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
